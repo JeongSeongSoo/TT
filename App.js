@@ -20,7 +20,7 @@ import {
 const App = () => {
   return (
     <View style = {styles.contains}>
-      <Text>커밋 테스트~</Text>
+      <Text>커밋 테 스트~</Text>
     </View>
   )
 }
